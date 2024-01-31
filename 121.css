@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: black;
+}
+
+.digital-clock {
+    font-size: 3em;
+    color: #333;
+    color: red;
+}
+
+h1{
+    color: red;
+   font-size: 30px;
+   
+}
